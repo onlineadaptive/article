@@ -1,0 +1,17 @@
+/target/
+/build/
+/bin/
+/out/
+/.gradle/
+/2020*/
+.classpath
+.project
+.settings
+benchmarks.jar
+
+*.class
+*.swo
+*.swp
+*.sh
+
+\.idea/

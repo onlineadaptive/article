@@ -1,0 +1,4 @@
+rootProject.name = 'container-bench'
+
+include ':OnlineAdaptiveConcurrentDataStructure'
+project(':OnlineAdaptiveConcurrentDataStructure').projectDir = new File('../OnlineAdaptiveConcurrentDataStructure')
